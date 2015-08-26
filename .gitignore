@@ -1,0 +1,5 @@
+*.o
+.objs
+phinfonet_blog_api.so
+assets.h
+cert
