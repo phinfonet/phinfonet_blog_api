@@ -1,5 +1,6 @@
 #include <kore/kore.h>
 #include <kore/http.h>
+#include <mongoc.h>
 #include "assets.h"
 
 int	blog_posts(struct http_request *);
